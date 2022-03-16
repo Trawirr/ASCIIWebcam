@@ -1,2 +1,2 @@
 # ASCIIWebcam
-Realtime converter camera to ASCII
+Realtime camera to ASCII converter
